@@ -426,6 +426,7 @@ void ICACHE_FLASH_ATTR rfidloop()
 		}
 	}
 	pinCode = "";
+	uid = "";
 }
 
 #ifndef OFFICIALBOARD
